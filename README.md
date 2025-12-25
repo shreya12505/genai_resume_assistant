@@ -4,20 +4,14 @@ A Generative AI–based application that analyzes resumes against job descriptio
 
 ## Features
 - Resume vs Job Description matching
+- View percentage
 - Skill gap identification
-- ATS improvement suggestions
-- AI-powered insights using LLMs
+- Improvement suggestions
+- 
 
 ## Tech Stack
 - Python
-- Streamlit
+- Flask
 - Generative AI (LLMs)
 - Prompt Engineering
 
-## How to Run
-1. Clone the repository
-2. Create virtual environment
-3. Install dependencies:
-   pip install -r requirements.txt
-4. Run:
-   streamlit run app.py
